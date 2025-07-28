@@ -31,12 +31,12 @@ This content-first approach, powered by a state-of-the-art sentence-transformer 
 
 | Library/Tool              | Purpose                                                                                            |
 | ------------------------- | -------------------------------------------------------------------------------------------------- |
+| `torch`                   | Core machine learning framework required by `sentence-transformers`.                               |
 | `PyMuPDF`                 | Fast and reliable PDF text extraction.                                                             |
-| `sentence-transformers`   | Powers the semantic search and relevance ranking using the efficient `all-MiniLM-L6-v2` model (\<1GB). |
+| `sentence-transformers`   | Powers the semantic search and relevance ranking using the efficient `all-MiniLM-L6-v2` model (<1GB). |
 | `numpy`                   | Numerical operations for efficient ranking and analysis.                                           |
 | `Docker`                  | Ensures a consistent, reproducible, and easy-to-deploy environment for the entire solution.         |
 | `re`, `json`, `pathlib`   | Standard libraries for text processing, data handling, and file system operations.                 |
-
 -----
 
 ## 🛠️ How to Build & Run
