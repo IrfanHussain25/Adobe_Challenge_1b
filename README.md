@@ -103,7 +103,7 @@ For each `Collection` directory, the script generates a `challenge1b_output.json
       "importance_rank": 1,
       "page_number": 1
     },
-    ...
+    
   ],
   "subsection_analysis": [
     {
@@ -111,7 +111,7 @@ For each `Collection` directory, the script generates a `challenge1b_output.json
       "refined_text": "A concise, relevant summary of the section's content.",
       "page_number": 1
     },
-    ...
+    
   ]
 }
 ```
